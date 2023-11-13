@@ -1,0 +1,46 @@
+body
+{
+    border: 1px solid;
+    box-sizing: border-box;
+    width: 553px;
+    margin: auto;
+    height: 520px;
+    margin-top: ;
+}
+div
+{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.b
+{
+    margin-left: 244px;
+    display: flex;
+    margin-top: -31px;
+    padding: 9px;
+    width: 169px;
+}
+.a
+{
+    margin-left: 37px;
+    margin-top: 33px;
+}
+.c
+{
+    margin-top: 45px;
+    margin-left: 121px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+.d
+{
+    margin-left: 244px;
+    display: flex;
+    margin-top: -31px;
+    padding: 9px;
+    width: 189px;
+}
