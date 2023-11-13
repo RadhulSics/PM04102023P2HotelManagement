@@ -1,0 +1,55 @@
+form{
+    border: 2px solid black;
+    width: 623px;
+    height: 669px;
+    margin-left: 290px;
+    background-repeat: no-repeat;
+    background-image: url(https://img.freepik.com/free-photo/flight-concept-with-grapefruit-sunglasses_23-2148169841.jpg?w=740&t=st=1699462100~exp=1699462700~hmac=11a4cb298157301c38d0b750f01b0659d0f7e642f48737260b14a1de1a94bac1);
+}
+h1{
+    text-align:center ;
+    text-decoration: underline;
+}
+.email{
+    word-spacing: 143px;
+    margin-left: 23px;
+}
+.dob{
+    word-spacing: 86px;
+    margin-left: 21px;
+}
+h1{
+    
+    height: 50px;
+    padding-top: 27px;
+    margin-bottom: 23px;
+    margin-top: -1px;
+}
+textarea{
+    width: 397px;
+    height: 83px;
+    margin-left: 19px;
+}
+button{
+    margin-left: 475px;
+    width: 72px;
+    margin-top: 50px;
+    color: palevioletred;
+    background-color: rgb(229, 229, 144);
+}
+.n{
+    margin-left: 19px;
+}
+input{
+    margin-left: 19px;
+}
+.u{
+    padding-left: 2px;
+    margin-left: 13px;
+}
+.o{
+    margin-left: 19px;  
+}
+.l{
+    margin-left: 19px;
+}
