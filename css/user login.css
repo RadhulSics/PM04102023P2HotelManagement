@@ -1,0 +1,39 @@
+form{
+    border: 2px solid black;
+    width: 412px;
+    height: 492px;
+    background-image: url(https://images.pexels.com/photos/1762851/pexels-photo-1762851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    
+}
+.ep{
+    margin-left: 20px;
+    margin-top: 66px;
+    font-size: larger;
+}
+input{
+    width: 290px;
+    height: 42px;
+    margin-left: 23px;
+}
+.fp{
+    margin-left: 265px;
+    margin-top: 25px;
+    
+}
+a:link{
+    color: black;
+}
+button{
+    width: 76px;
+    height: 29px;
+    margin-left: 22px;
+    margin-top: 28px;
+    background-color: white;
+    color: black;
+}

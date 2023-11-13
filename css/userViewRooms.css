@@ -1,0 +1,74 @@
+form{
+    border: 2px solid black;
+    width: 400px;
+    height: 567px;
+}
+img{width: 206px;
+    height: 121px;
+    margin-left: 98px;
+    margin-top: 33px;
+}
+.i{
+    width: 100px;
+}
+.c{
+    margin-left: 20px;
+}
+.a{
+    margin-left: 15px;
+    font-size: larger;
+}
+.tm{
+    margin-left: 15px;
+    font-size: larger;
+}
+.rn{
+    width: 35px;
+    height: 31px;
+    margin-left: 29px;
+}
+.ac{
+    word-spacing: 43px;
+    margin-left: 183px;
+    margin-top: -37px;
+}
+.acb{
+    width: 35px;
+    height: 31px;
+    margin-left: 185px;
+}
+.aca{
+    width: 35px;
+    height: 31px;
+    margin-left: 45px;
+}
+.i{
+    height: 20px;
+    width: 96px;
+    margin-left: 55px;
+}
+.k{
+    height: 20px;
+    width: 96px;
+    margin-left: 45px;
+}
+.c{
+    margin-left: 15px;
+    font-size: larger;
+}
+.t{
+    margin-left: 15px;
+    font-size: larger;
+}
+.p{
+    width: 53px;
+    height: 28px;
+    margin-left: 77px;
+}
+button{
+    margin-top: 22px;
+    width: 103px;
+    height: 37px;
+    margin-left: 47px;
+    background-color:rgb(31, 118, 184);
+}
