@@ -1,0 +1,36 @@
+.a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    border: 1px solid black;
+    width: 500px;
+    height: 360px;
+    align-items: center;
+    background-repeat: no-repeat;
+}
+.pass{
+    margin-top: 20px;
+    width: 253px;
+    height: 39px;
+}
+.email{
+    height: 39px;
+    width: 254px;
+    text-align: -webkit-left;
+}
+.forg{
+    margin-top: 20px;
+    width: 253px;
+    height: 39px;
+    margin-left: 306px;
+    color: rgb(19, 123, 202);
+}
+button{
+    height: 39px;
+    width: 93px;
+    font-size: large;
+}
+.forg:hover{
+    color: rgb(81, 1, 240);
+}
