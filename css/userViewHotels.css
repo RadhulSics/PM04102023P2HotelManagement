@@ -3,14 +3,23 @@
 }
 .img1{
     width: 282px;
-    margin-left: 869px;
-    margin-top: -177px;
+    margin-left: 867px;
+    margin-top: -182px;
 }
 .img2{
     width: 282px;
     margin-left: 869px;
-    margin-top: -177px;
+    margin-top: -180px;
+    position: relative;
+    top: -6px;
 }
 b{
     font-size: larger;
+}
+
+body{
+    background-color: #c686f9ad;
+}
+h1{
+    background-color: #9e1e87bf;
 }

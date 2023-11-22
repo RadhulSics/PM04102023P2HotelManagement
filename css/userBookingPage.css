@@ -8,3 +8,8 @@ p{
 h1{
     text-align: center;
 }
+body{
+    background-image: url(https://img.freepik.com/premium-photo/abstract-background-design-images-wallpaper-ai-generated_643360-90540.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
