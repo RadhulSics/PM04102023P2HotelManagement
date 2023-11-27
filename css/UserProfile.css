@@ -1,16 +1,20 @@
 .b
 {
+    border-radius: 8px;
     border: 1px solid;
     width: 322px;
     margin-left: 352px;
     margin-top: -27px;
+    background-color: rgba(12, 112, 253, 0.523);
 }
-body
+.u
 {
     border: 1px solid;
     box-sizing: border-box;
     width: 715px;
     margin: auto;
+    background-color: rgba(232, 139, 8, 0.358);
+
 }
 h1{
     text-align: center;
@@ -19,12 +23,6 @@ h1{
 p
 {
     margin-left: 30px;
-}
-button
-{
-    padding: 10px;
-    margin-left: 34px;
-    margin-top: 20px;
 }
 div
 {
