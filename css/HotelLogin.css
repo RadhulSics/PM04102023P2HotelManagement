@@ -1,0 +1,52 @@
+.a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    border: 1px solid black;
+    width: 500px;
+    height: 360px;
+    align-items: center;
+    background-color: rgba(232, 139, 8, 0.358);
+
+}
+.forg{
+    color:rgb(4, 136, 251);
+    margin-top: 29px;
+    text-align: center;
+}
+.b
+{
+    margin-top: 20px;
+    width: 253px;
+    height: 39px;
+    background-color: rgba(12, 112, 253, 0.523);
+    border: 0px;
+    border-radius: 20px;
+}
+:placeholder-shown
+{
+    text-align: center;
+}
+.v
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+    color: rgb(14, 62, 206);
+    
+
+}
+.v:hover
+{
+    color: red;
+    
+}
+.forg:hover
+{
+    color: red;
+}
+.b:hover
+{
+    background-color: white;
+}

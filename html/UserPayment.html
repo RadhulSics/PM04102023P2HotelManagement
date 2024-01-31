@@ -2,22 +2,40 @@
 <html lang="en">
 <head>
     <title>Payment Page</title>
-    <link rel="stylesheet" href="UserPayment.css">
+    <link rel="stylesheet" href="../css/UserPayment.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 <body>
+    <div class="q">
     <h1>Payment Page</h1>
     <form>
         <div>
         <label class="a">Card number <input class="b" type="number" placeholder="card no"></label>
         <label class="a">Select card type
-                <select class="d" name="Card Types" id="Card Types">
+                <!-- <select class="d" name="Card Types" id="Card Types">
                     <option value="MASTER CARD">MASTER CARD</option>
                     <option value="VISA CARD">VISA CARD</option>
                     <option value="IDBI CARD">IDBI CARD</option>
                     <option value="HSBC CARD">HSBC CARD</option>
                     <option value="AXIS BANK CARD">AXIS BANK CARD</option>
                     <option value="BUISNESS CARD">Master Card</option>
-            </select>
+            </select> -->
+            <div class="d">
+            <div class="dropdown">
+                <button style="background-color: rgba(12, 112, 253, 0.414); color: black; border: 0px; border-radius: 8px; height: 41px; " class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Card Type
+                </button>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Master Card</a></li>
+                  <li><a class="dropdown-item" href="#">Visa Card</a></li>
+                  <li><a class="dropdown-item" href="#">Idbi card</a></li>
+                  <li><a class="dropdown-item" href="#">Hsbc card</a></li>
+                  <li><a class="dropdown-item" href="#">Axis card</a></li>
+                  <li><a class="dropdown-item" href="#">Buisness card</a></li>
+                </ul>
+            </div>
+              </div>
             </label>
         <label class="a">Full Name <input class="b" type="text"></label>
         <label class="a">CVV <input class="b" type="number"></label>
@@ -27,5 +45,6 @@
         <button class="c">CANCEL</button>
         <button class="c">Make Payment</button>
     </form>
+</div>
 </body>
 </html>
